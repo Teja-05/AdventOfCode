@@ -34,7 +34,3 @@ for line in l:
     total += power
 
 print(total)
-
-
-
-
