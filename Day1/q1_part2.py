@@ -31,5 +31,3 @@ for line in l:
     total += int(str(first)+str(last))
 
 print(total)
-
-    
