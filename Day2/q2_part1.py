@@ -29,7 +29,3 @@ for line in l:
         total += int(gameid)
 
 print(total)
-
-
-
-
