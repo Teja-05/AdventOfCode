@@ -1,1 +1,1 @@
-My solutions for AdventOfCode 2023
+Solutions for AdventOfCode 2023
